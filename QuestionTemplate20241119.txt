@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+     <h1>Question 1</h1>
+      <div>
+        
+        <p>Type your question here</p> <br>
+        
+             <div>
+                <form>
+                    <input type="radio" name="q1" required value="Answer1" >Answ1<br>
+                    <input type="radio" name="q1" value="Answer2">Answ2<br>
+                    <input type="radio" name="q1" value="Answer3">Answ3<br>
+                    <input type="radio" name="q1" value="Answer4">Answ4<br>
+                    <br><button class="Submit" type="submit">Submit Answer</button>
+                </form>
+            </div>    
+    
+    
+    
+      </div>
+    </div>    
+    
+    
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
