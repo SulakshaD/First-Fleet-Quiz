@@ -2,7 +2,7 @@ var b1 = document.getElementsByTagName("button")[0];
 
 b1.addEventListener("click",function(){console.log("click!");
 
-    if(document.getElementById('q7a1').checked == true)
+    if(document.getElementById('q7a4').checked == true)
 
     {    console.log("correct!");
 
@@ -40,7 +40,7 @@ b1.addEventListener("click",function(){console.log("click!");
 
     }
 
-    else if(document.getElementById('q7a4').checked == true){
+    else if(document.getElementById('q7a1').checked == true){
 
       {
 
